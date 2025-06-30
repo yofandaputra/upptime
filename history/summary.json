@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/yamadabestid.com.ico",
     "slug": "yamada",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.92%",
+    "uptimeDay": "96.69%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.92%",
     "time": 1008,
     "timeDay": 722,
     "timeWeek": 907,
     "timeMonth": 1000,
     "timeYear": 1008,
     "dailyMinutesDown": {
-      "2025-06-29": 0
+      "2025-06-30": 46,
+      "2025-06-29": 2
     }
   },
   {
