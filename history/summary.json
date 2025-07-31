@@ -4,7 +4,7 @@
     "url": "https://www.limecommerce.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.limecommerce.com.ico",
     "slug": "limecommerce-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 158,
     "timeMonth": 143,
     "timeYear": 148,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-31": 0
+    }
   },
   {
     "name": "Yamada",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/yamadabestid.com.ico",
     "slug": "yamada",
     "status": "down",
-    "uptime": "87.60%",
+    "uptime": "86.49%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "11.14%",
-    "uptimeMonth": "70.91%",
-    "uptimeYear": "87.60%",
+    "uptimeWeek": "2.97%",
+    "uptimeMonth": "67.97%",
+    "uptimeYear": "86.49%",
     "time": 941,
     "timeDay": 115,
-    "timeWeek": 465,
-    "timeMonth": 870,
+    "timeWeek": 347,
+    "timeMonth": 863,
     "timeYear": 941,
     "dailyMinutesDown": {
-      "2025-07-31": 46,
+      "2025-07-31": 1373,
       "2025-07-30": 1440,
       "2025-07-29": 1440,
       "2025-07-28": 1440,
