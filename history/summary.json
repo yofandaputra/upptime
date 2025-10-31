@@ -13,7 +13,7 @@
     "time": 164,
     "timeDay": 63,
     "timeWeek": 156,
-    "timeMonth": 161,
+    "timeMonth": 162,
     "timeYear": 164,
     "dailyMinutesDown": {
       "2025-10-18": 16,
@@ -31,17 +31,16 @@
     "slug": "yamada",
     "status": "up",
     "uptime": "88.01%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "88.01%",
     "time": 1128,
     "timeDay": 991,
     "timeWeek": 1105,
-    "timeMonth": 1131,
+    "timeMonth": 1135,
     "timeYear": 1128,
     "dailyMinutesDown": {
-      "2025-10-30": 6,
       "2025-09-07": 39,
       "2025-08-26": 60,
       "2025-08-25": 3,
@@ -85,7 +84,7 @@
     "time": 123,
     "timeDay": 84,
     "timeWeek": 614,
-    "timeMonth": 213,
+    "timeMonth": 209,
     "timeYear": 123,
     "dailyMinutesDown": {
       "2025-08-21": 17
@@ -105,7 +104,7 @@
     "time": 212,
     "timeDay": 69,
     "timeWeek": 216,
-    "timeMonth": 210,
+    "timeMonth": 212,
     "timeYear": 212,
     "dailyMinutesDown": {}
   },
@@ -123,7 +122,7 @@
     "time": 336,
     "timeDay": 105,
     "timeWeek": 232,
-    "timeMonth": 284,
+    "timeMonth": 286,
     "timeYear": 336,
     "dailyMinutesDown": {}
   },
